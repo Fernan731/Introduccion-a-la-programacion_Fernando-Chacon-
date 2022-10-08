@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Tarea1 LAB 5/1.0.0": {
+        "runtime": {
+          "Tarea1 LAB 5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tarea1 LAB 5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
