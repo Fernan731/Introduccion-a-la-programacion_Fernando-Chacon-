@@ -1,0 +1,15 @@
+C:\Users\ferna\Desktop\Fernando Chacon universidad\segundo año\2do ciclo\programacion laboratorio\LAB 5 tarea 2\LAB 5 tarea 2\bin\Debug\net6.0\LAB 5 tarea 2.exe
+C:\Users\ferna\Desktop\Fernando Chacon universidad\segundo año\2do ciclo\programacion laboratorio\LAB 5 tarea 2\LAB 5 tarea 2\bin\Debug\net6.0\LAB 5 tarea 2.deps.json
+C:\Users\ferna\Desktop\Fernando Chacon universidad\segundo año\2do ciclo\programacion laboratorio\LAB 5 tarea 2\LAB 5 tarea 2\bin\Debug\net6.0\LAB 5 tarea 2.runtimeconfig.json
+C:\Users\ferna\Desktop\Fernando Chacon universidad\segundo año\2do ciclo\programacion laboratorio\LAB 5 tarea 2\LAB 5 tarea 2\bin\Debug\net6.0\LAB 5 tarea 2.dll
+C:\Users\ferna\Desktop\Fernando Chacon universidad\segundo año\2do ciclo\programacion laboratorio\LAB 5 tarea 2\LAB 5 tarea 2\bin\Debug\net6.0\LAB 5 tarea 2.pdb
+C:\Users\ferna\Desktop\Fernando Chacon universidad\segundo año\2do ciclo\programacion laboratorio\LAB 5 tarea 2\LAB 5 tarea 2\obj\Debug\net6.0\LAB 5 tarea 2.csproj.AssemblyReference.cache
+C:\Users\ferna\Desktop\Fernando Chacon universidad\segundo año\2do ciclo\programacion laboratorio\LAB 5 tarea 2\LAB 5 tarea 2\obj\Debug\net6.0\LAB 5 tarea 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\Desktop\Fernando Chacon universidad\segundo año\2do ciclo\programacion laboratorio\LAB 5 tarea 2\LAB 5 tarea 2\obj\Debug\net6.0\LAB 5 tarea 2.AssemblyInfoInputs.cache
+C:\Users\ferna\Desktop\Fernando Chacon universidad\segundo año\2do ciclo\programacion laboratorio\LAB 5 tarea 2\LAB 5 tarea 2\obj\Debug\net6.0\LAB 5 tarea 2.AssemblyInfo.cs
+C:\Users\ferna\Desktop\Fernando Chacon universidad\segundo año\2do ciclo\programacion laboratorio\LAB 5 tarea 2\LAB 5 tarea 2\obj\Debug\net6.0\LAB 5 tarea 2.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Desktop\Fernando Chacon universidad\segundo año\2do ciclo\programacion laboratorio\LAB 5 tarea 2\LAB 5 tarea 2\obj\Debug\net6.0\LAB 5 tarea 2.dll
+C:\Users\ferna\Desktop\Fernando Chacon universidad\segundo año\2do ciclo\programacion laboratorio\LAB 5 tarea 2\LAB 5 tarea 2\obj\Debug\net6.0\refint\LAB 5 tarea 2.dll
+C:\Users\ferna\Desktop\Fernando Chacon universidad\segundo año\2do ciclo\programacion laboratorio\LAB 5 tarea 2\LAB 5 tarea 2\obj\Debug\net6.0\LAB 5 tarea 2.pdb
+C:\Users\ferna\Desktop\Fernando Chacon universidad\segundo año\2do ciclo\programacion laboratorio\LAB 5 tarea 2\LAB 5 tarea 2\obj\Debug\net6.0\LAB 5 tarea 2.genruntimeconfig.cache
+C:\Users\ferna\Desktop\Fernando Chacon universidad\segundo año\2do ciclo\programacion laboratorio\LAB 5 tarea 2\LAB 5 tarea 2\obj\Debug\net6.0\ref\LAB 5 tarea 2.dll
